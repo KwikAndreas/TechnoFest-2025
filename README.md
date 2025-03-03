@@ -14,7 +14,7 @@ Proyek ini memanfaatkan teknologi Kecerdasan Buatan (AI) untuk menganalisis data
   - Data satelit **MODIS** untuk pemantauan perubahan lingkungan.
 - **Platform**:
   - **Python** (TensorFlow/PyTorch) untuk pengembangan model AI.
-  - **React (Mobile App)** untuk antarmuka pengguna yang memungkinkan notifikasi real-time.
+  - **Flutter (Mobile App)** untuk antarmuka pengguna yang memungkinkan notifikasi real-time.
 
 ---
 
