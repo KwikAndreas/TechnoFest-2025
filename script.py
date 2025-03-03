@@ -1,7 +1,7 @@
 import requests
 
-API_KEY = "6c91885585d027a8f40867741a974d61"  # API Key yang ingin diuji
-CITY = "Jakarta"  # Ubah sesuai kebutuhan
+API_KEY = "6c91885585d027a8f40867741a974d61"
+CITY = "Jakarta"
 URL = f"http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units=metric"
 
 try:
