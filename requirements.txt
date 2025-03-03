@@ -1,1 +1,0 @@
-pip install requests pandas numpy tensorflow torch flask fastapi
